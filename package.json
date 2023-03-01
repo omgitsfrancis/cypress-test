@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/omgitsfrancis/cypress-test#readme",
   "devDependencies": {
-    "cypress": "^3.4.1"
+    "cypress": "^12.7.0"
   }
 }
